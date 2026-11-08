@@ -15,10 +15,10 @@ This is a 4:30 short film. The repository holds its full source code, the code t
 
 **▶ [觀看成片 · Watch the film](release/oracle_1080p.mp4)** (1080p · 94.6 MB)
 
-[⬇ 高畫質版 · High quality (CRF 16 · 801 MB)](https://github.com/f0909172434/ORACLE/releases/download/v3.0/oracle_hq_1080p.mp4) ·
-[預覽版 · Preview (540p · 20 MB)](https://github.com/f0909172434/ORACLE/releases/download/v3.0/oracle_preview_540p.mp4) ·
-[原聲帶 · Soundtrack (FLAC)](https://github.com/f0909172434/ORACLE/releases/download/v3.0/oracle_soundtrack.flac) ·
-[所有版本 · Release](https://github.com/f0909172434/ORACLE/releases/tag/v3.0)
+[⬇ 高畫質版 · High quality (CRF 16 · 801 MB)](https://github.com/Chih-Kai-Wang/ORACLE/releases/download/v3.0/oracle_hq_1080p.mp4) ·
+[預覽版 · Preview (540p · 20 MB)](https://github.com/Chih-Kai-Wang/ORACLE/releases/download/v3.0/oracle_preview_540p.mp4) ·
+[原聲帶 · Soundtrack (FLAC)](https://github.com/Chih-Kai-Wang/ORACLE/releases/download/v3.0/oracle_soundtrack.flac) ·
+[所有版本 · Release](https://github.com/Chih-Kai-Wang/ORACLE/releases/tag/v3.0)
 
 線上觀看 · Watch online: [YouTube](https://youtu.be/kQH1PZRkn00) · [bilibili](https://www.bilibili.com/video/BV1yaH86EE3G)
 
